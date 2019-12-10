@@ -26,6 +26,8 @@ public class HelloWorldJavaView extends AbstractFxmlView {
         myJavaCodePane=pane;
     }
 
+
+    // SSS
     @Override
     public Parent getView() {
         return myJavaCodePane;

@@ -7,6 +7,7 @@
         <module>part8</module>
         <module>part7</module>
         <module>part6</module>
+        <module>part1</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
